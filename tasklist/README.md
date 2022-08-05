@@ -1,3 +1,8 @@
+# Lista de Tareas
+en este repositorio cree una lista de tareas la cual puede agregar, editar y eliminar dichas tareas a travez de useState
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
